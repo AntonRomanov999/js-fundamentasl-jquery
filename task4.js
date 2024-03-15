@@ -6,7 +6,7 @@
 // Завдання виділене вставкою Task4
 
 const chkb = $("input");
-const chkbChk = $('input:checked');
+
 
 chkb.change(() => {
     const chkbChk = $('input:checked');
