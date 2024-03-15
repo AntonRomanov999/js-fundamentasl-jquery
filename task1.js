@@ -5,3 +5,9 @@
 
 // Завдання виділене вставкою Task1
 
+const heads = $(".head");
+heads.css("background-color", "green");
+const inners = heads.find(".inner");
+inners.css("font-size", "35px");
+
+
