@@ -4,3 +4,6 @@
 
 // Завдання виділене вставкою Task2
 
+
+
+$("a[href^='https://']").attr("target", "_blank");
